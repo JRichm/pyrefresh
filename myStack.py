@@ -66,8 +66,6 @@ class Stack:
             return True
         return False
 
-
-
 stack = Stack()
 
 print(stack.empty())
